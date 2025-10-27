@@ -81,6 +81,9 @@ Visualized sales and profit trends using Matplotlib and Seaborn
 
 Notebook: collab/superstore (1).ipynb
 
+For more information: 
+https://colab.research.google.com/drive/1C_cPAPUjhZh1Gh803172hrwMKB0zrsBA#scrollTo=7h8gW0VCkX20
+
 
 
 
