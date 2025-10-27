@@ -149,4 +149,4 @@ Python for automation,
 
 Power BI/Tableau for interactive visualization,
 
-SQL for data integrity checks.
+SQL for data integrity checks..
