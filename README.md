@@ -26,8 +26,6 @@ Technology and Office Supplies categories generate the highest sales.
 
 Western and Eastern regions show stronger profitability.
 
-Discounts beyond 20% significantly reduce overall profit margins.
-
 California and New York lead in both sales volume and profit.
 
 Consumer segment contributes the largest revenue share.
