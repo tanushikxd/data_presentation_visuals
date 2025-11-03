@@ -1,3 +1,8 @@
+
+Dataset source: 
+
+Publicly available on Kuggle.com
+
 # data_presentation_visuals
 This project explores the Sample Superstore dataset using multiple analytical tools — Excel, Power BI, Tableau, SQL, and Python (Google Colab).
 The goal is to uncover key business insights such as:
