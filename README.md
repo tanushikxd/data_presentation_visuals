@@ -9,10 +9,14 @@ The goal is to uncover key business insights such as:
 
 Which categories and regions drive the most sales and profit
 
+![alt text](visuals/region_sales.png)
+
 Yearly and monthly trends
 
-Top products and customer segments
+![alt text](visuals/sales&profit_by_years.png)
 
+Top products and customer segments
+![alt text](<visuals/top_10)by_profit.png>)
 
 
 Tools Used
@@ -96,11 +100,16 @@ Created pivot tables and visual charts:
 
 Sales by Category & Region
 
+![alt text](visuals/sales_by_category.png)
+
 Profit by Product
 
-Trend analysis by Month and Year
+![alt text](visuals/profit_by_product.png)
 
-Discount vs. Profit correlation
+Trend analysis by Segment
+
+![alt text](visuals/profit_by_segment.png)
+
 
 File: excel/Superstore_final_excel.xlsx
 
