@@ -48,13 +48,21 @@ Power BI Dashboard
 
 Includes:
 
-Sales and Profit by Region and Category
+KPI
 
-Monthly and Yearly Sales Trend
+![alt text](visuals/bi_KPI.png)
+
+Sales by state
+
+![alt text](visuals/bi_sales_by_state.png)
 
 Top 10 Products by Profit
 
-Interactive filters for Region, Category, Segment, and Year
+![alt text](visuals/bi_top_10_by_profit.png)
+
+Sales & profit by category
+
+![alt text](visuals/bi_sales_profit_by_cat.png)
 
 Download Power BI file:
 Link would be provided later
