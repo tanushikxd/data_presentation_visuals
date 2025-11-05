@@ -65,11 +65,21 @@ Tableau Dashboard
 
 Includes:
 
-Sales & Profit Heat Map
+Sales & Profit
+
+![alt text](visuals/top-10_by_profit.png)
 
 Sales by Category and Region
 
-Profit Ratio per Product Sub-Category
+
+![alt text](visuals/t_sales_by_category.png)
+
+![alt text](visuals/t_sales_by_region.png)
+
+
+Sales by year
+![alt text](visuals/t_sales_by_year.png)
+
 
 View on Tableau Public: tableau/superstore_tableau.twb
 
